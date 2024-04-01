@@ -1,0 +1,15 @@
+.header {
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    border-bottom: 1px solid #e9ecef;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.title-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
