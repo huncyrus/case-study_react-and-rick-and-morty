@@ -50,6 +50,10 @@ npm run dev
  - Classic CRUD (it is just list, detail, pagination)
  - Advanced security (there is no checks for GraphQL nor for an user)
 
+### Project screenshots
+- [List view](/public//20240401_case-study-screenshot-01.png)
+- [Detail view](/public/20240401_case-study-screenshot-02.png)
+
 
 ### References
 - [Rick & Morty Graphql API](https://rickandmortyapi.com/graphql)
