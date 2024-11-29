@@ -22,3 +22,9 @@ export const GET_CHARACTER = gql`
     }
   }
 `;
+/**
+ * TODO: add the epizodes, like
+ * episodes (id: $id) {
+        episode_title
+      }
+ */
